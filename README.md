@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Armando Castro 
 - 👀 I’m interested in gaining experience within a data center. 
 - 🌱 I’m currently learning automation and scripting functions for python. 
-- 💞️ I’m looking to collaborate on Pl/SQL and Oracle database onboarding skills.  
+- 💞️ I’m looking to collaborate on anything that can help build pre-req Pl/SQL and Oracle database onboarding skills for a DBA position.  
 - 📫 How to reach me:   Linkedin - https://www.linkedin.com/in/armando-castro-257833b9/  OR email armando.castro@g.austincc.edu
 
 <!---
